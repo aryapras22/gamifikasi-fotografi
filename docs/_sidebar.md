@@ -1,0 +1,6 @@
+* [🏠 Introduction](README.md)
+* [🚀 Getting Started & Setup](getting_started.md)
+* [🏛️ Architecture & Pages Guide](architecture_and_logic.md)
+* [🔍 Debugging & Troubleshooting](debugging_guide.md)
+* [🛠️ How to Change Pages & Features](changing_features_and_pages.md)
+* [🌐 Deploying Docs on GitHub](deploying_on_github.md)
