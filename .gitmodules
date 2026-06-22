@@ -1,0 +1,6 @@
+[submodule "gamifyphotography"]
+	path = gamifyphotography
+	url = https://github.com/aryapras22/gamifyphotography.git
+[submodule "gamifyphotography-admin"]
+	path = gamifyphotography-admin
+	url = https://github.com/aryapras22/gamifyphotography-admin.git
